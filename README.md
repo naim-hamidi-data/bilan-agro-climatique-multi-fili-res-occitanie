@@ -3,7 +3,7 @@
 
 ### Bilan agroclimatique multi-filières des récoltes 2026
 
-**Projet personnel Python | Master DigitalAgri 2026–2027**
+**Projet personnel Python**
 
 > **Problématique :** Comment les conditions agroclimatiques de la campagne 2025–2026 ont-elles évolué par rapport aux références historiques, et quelles relations peut-on observer avec les performances des principales filières agricoles d'Occitanie ?
 
