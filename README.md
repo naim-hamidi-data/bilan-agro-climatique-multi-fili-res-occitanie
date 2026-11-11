@@ -108,11 +108,11 @@ AgroClimate-Analytics/
 ## 📦 Livrables attendus
 
 - Base de données climatiques et agricoles structurée.
-- Indicateurs agroclimatiques de la campagne 2025–2026.
-- Analyses statistiques et graphiques comparatifs.
-- Cartographies des contrastes territoriaux.
-- Rapport agroclimatique multi-filières des récoltes 2026.
 - Scripts Python documentés et reproductibles.
+- Graphiques statistiques et cartographies.
+- **Dashboard interactif Looker Studio** : bilan agroclimatique multi-filières.
+- Rapport final et analyses agronomiques.
+- Dépôt GitHub et présentation sur le portfolio.
 
 ## ⚠️ Limites méthodologiques
 
